@@ -1,5 +1,5 @@
-nn=0 
-limit=20
+n=0 
+limit=input()
 while(n<=limit) :
 	print(n)
 	n=n+2
